@@ -1,0 +1,12 @@
+.cardContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cardwidth33{
+    flex-basis: 32.555%;
+    max-width: 32.555%;
+}
+.p1{
+    padding: 20px;
+}
